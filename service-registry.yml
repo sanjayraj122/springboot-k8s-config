@@ -51,7 +51,6 @@ spec:
                   name: eureka-cm
                   key: eureka_service_address
 
-
 ---                  
 
 apiVersion: v1
